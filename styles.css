@@ -5,6 +5,8 @@ body {
     background-color: #1f2937;
     max-width: 960px;
     margin: 0 auto;
+    padding: 0 80px;
+    gap: 40px;
 }
 
 h1 {
@@ -13,13 +15,15 @@ h1 {
     word-wrap: normal;
     font-weight: bold;
     margin: 0px;
+    max-width: 320px;
 }
 
 p {
     font-weight:lighter;
     font-size:medium;
     color: rgb(226, 226, 226);
-    margin: 0px;
+    margin: 10px 0px;
+    max-width: 400px;
 }
 
 img {
